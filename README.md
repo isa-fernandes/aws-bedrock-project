@@ -1,5 +1,7 @@
 # AWS Bedrock - Exercício 1
 
+<video controls width="100%" src="output.mp4"></video>
+
 Este repositório reúne notebooks de estudo com exemplos práticos de uso do AWS Bedrock para geração de texto e vídeo.
 
 ## Conteúdo
